@@ -1,6 +1,8 @@
 ## Hi WavingPay 👋
 
 
+WavingPay is a next-generation biometric identity and payment system that leverages palm vein recognition for ultra-secure, touchless authentication. By capturing subcutaneous vascular patterns using near-infrared imaging and graph-based AI modeling, WavingPay offers frictionless payments, access control, and digital identity verification with near-perfect accuracy. Built for privacy, speed, and reliability—WavingPay is redefining the future of personal identification beyond fingerprints and facial recognition.
+<!--
 **WavingPay/WavingPay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
